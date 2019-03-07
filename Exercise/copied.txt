@@ -1,0 +1,6 @@
+fun
+cool
+great
+fun 
+ cool 
+ great
